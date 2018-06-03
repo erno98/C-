@@ -1,4 +1,4 @@
-# Cpp
+# Order-Processing-System-for-Cafes
 
 // Prototype of an order processing system for cafes,
 // the main goal was to get familiar with pointers and linked list structure.
